@@ -33,6 +33,12 @@ h1 {
   font-weight: 100;
 }
 
+#demo {
+  font-weight: lighter;
+  word-spacing: 20px;
+	font-size: 30px;
+}
+
 hr {
   margin: auto;
   width: 90%;
